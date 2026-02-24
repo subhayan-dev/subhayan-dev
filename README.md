@@ -86,6 +86,18 @@ ELF • ARM64 • Android Runtime • Native Libraries
 
 ---
 
+# 🎓 ACADEMIC BACKGROUND
+
+```diff
++ Diploma in Computer Science & Engineering
+
++ B.Tech (Pursuing)
+  IoT & Cyber Security
+  Specialization: Blockchain Technology
+```
+
+---
+
 # ⚙️ TECH STACK
 
 <p align="center">
