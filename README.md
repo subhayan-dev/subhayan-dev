@@ -1,45 +1,59 @@
-<h1 align="center">Hi, I'm Subhayan</h1>
+<h1 align="center">Subhayan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=C%2B%2B+Systems+Developer;Security+Researcher;Linux+%7C+ARM64+%7C+ELF;Low-Level+Engineering" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=C%2B%2B+Systems+Developer;Security+Researcher;Reverse+Engineering+Enthusiast;Linux+%7C+ARM64+%7C+ELF+Internals" />
 </p>
 
 ---
 
-## 🔬 Abilities
+## 🛡 Core Abilities
 
-- Low-level Systems Programming
-- Runtime Integrity & Memory Analysis
-- ELF Structure Inspection
-- Native Android Development
-- Secure Software Design
-
----
-
-## 🧠 Knowledge
-
-- Linux Internals  
-- ARM64 Architecture  
-- Syscall Mechanisms  
-- Process & Memory Management  
-- Secure Execution Environments  
+- Low-Level Systems Programming (C/C++)
+- Linux Internals & Syscall Analysis
+- Runtime Integrity & Memory Inspection
+- Native Android Development (NDK)
+- Secure Execution & Binary Inspection
 
 ---
 
-## 🛠 Tech Stack
+## 🔬 Reverse Engineering Expertise
+
+- Static & Dynamic Binary Analysis
+- ELF Structure & Native Library Inspection
+- Android DEX & Class Reversing
+- ARM64 Disassembly & Analysis
+- Hooking Framework Design & Implementation
+
+---
+
+## 🧠 Tools & Platforms
 
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,c,linux,androidstudio,cmake,bash,git" />
 </p>
 
+**Reverse Engineering Tools:**
+- IDA Pro  
+- radare2  
+- Ghidra  
+- Objdump / Readelf  
+
 ---
 
-## 📊 GitHub Stats
+## ⚙️ Advanced Knowledge
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=subhayan-dev&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhayan-dev&layout=compact&theme=github_dark&hide_border=true" height="165"/>
-</p>
+- ARM64 Architecture  
+- Process & Memory Management  
+- Syscall Interception  
+- Native Library Analysis  
+- Hooking & Runtime Instrumentation  
+- Secure Runtime Design  
+
+---
+
+## 📊 Activity Overview
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhayan-dev&theme=github_dark" />
 
 ---
 
