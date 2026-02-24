@@ -51,4 +51,4 @@
 
 ## 📫 Contact
 
-- Email: subhayan-dev@gmail.com
+- Email: subhayan.dev@gmail.com
