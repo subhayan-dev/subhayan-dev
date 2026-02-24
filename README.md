@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Subhayan;C%2B%2B+Systems+Developer;Reverse+Engineering+%26+Binary+Analysis;Linux+%7C+ARM64+%7C+ELF+Internals;Runtime+Integrity+%26+Instrumentation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Subhayan;C%2B%2B+Systems+Developer;Reverse+Engineering+%26+Binary+Analysis;Linux+%7C+ARM64+%7C+ELF+Internals;Runtime+Instrumentation+%26+Integrity+Research" />
 </p>
 
 <p align="center">
@@ -26,22 +26,35 @@
 • ARM64 Disassembly & Binary Inspection
 • Android DEX / Class Reversing
 • Static & Dynamic Analysis
-• Hooking Framework Architecture
-• Runtime Instrumentation & Memory Patching
+• Runtime Patching & Memory Manipulation
+• Hooking Framework Design & Implementation
+```
+
+---
+
+## 🧪 Dynamic Instrumentation
+
+```
+• Frida (Dynamic Runtime Analysis)
+• Native Hooking (ARM64)
+• Syscall Interception
+• Runtime Code Tracing
+• Process Memory Inspection
+• Android Native Library Instrumentation
 ```
 
 ---
 
 ## 🔧 Reverse Engineering Toolchain
 
-**Primary Tools**
-IDA Pro • Ghidra • radare2
+**Primary Tools**  
+IDA Pro • Ghidra • radare2  
 
-**Binary Utilities**
-Objdump • Readelf • nm • strings
+**Dynamic Analysis & Instrumentation**  
+Frida • Objdump • Readelf • nm • strings  
 
-**Platform Focus**
-ELF • ARM64 • Android Runtime • Native Libraries
+**Platform Focus**  
+ELF • ARM64 • Android Runtime • Native Libraries  
 
 ---
 
